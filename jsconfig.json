@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json.schemastore.org/jsconfig",
+    "compilerOptions": {
+        "target": "ES2023",
+        "lib": ["ESNext", "DOM", "DOM.Iterable"],
+
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+
+        "allowJs": true,
+        "checkJs": true,
+
+        "forceConsistentCasingInFileNames": true,
+
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "exactOptionalPropertyTypes": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "noImplicitOverride": true,
+        "noPropertyAccessFromIndexSignature": true,
+        "allowUnusedLabels": false,
+
+        "skipLibCheck": true
+    },
+    "include": ["configs/**/*", ".prettierrc.js"],
+    "exclude": ["node_modules"]
+}
