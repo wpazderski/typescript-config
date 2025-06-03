@@ -1,6 +1,6 @@
 {
     "name": "@wpazderski/typescript-config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Common TypeScript configs with strict options enabled; designed for modern projects",
     "keywords": [
         "typescript",
