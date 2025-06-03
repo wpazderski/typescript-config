@@ -43,3 +43,9 @@ Replace `<CONFIG_NAME>` with chosen config (see [Available configs](#available-c
 - `nextJs` - for Next.js projects,
 - `react` - for React projects,
 - `vue` - for Vue projects.
+
+## Related projects
+
+- [@wpazderski/prettier-config](https://github.com/wpazderski/prettier-config),
+- [@wpazderski/eslint-config](https://github.com/wpazderski/eslint-config),
+- [@wpazderski/configs-example-project](https://github.com/wpazderski/configs-example-project) - an example project that shows how to use all configs.
