@@ -48,4 +48,6 @@ Replace `<CONFIG_NAME>` with chosen config (see [Available configs](#available-c
 
 - [@wpazderski/prettier-config](https://github.com/wpazderski/prettier-config),
 - [@wpazderski/eslint-config](https://github.com/wpazderski/eslint-config),
-- [@wpazderski/configs-example-project](https://github.com/wpazderski/configs-example-project) - an example project that shows how to use all configs.
+- [@wpazderski/playwright-config](https://github.com/wpazderski/playwright-config),
+- [@wpazderski/playwright-utils](https://github.com/wpazderski/playwright-utils),
+- [@wpazderski/configs-utils-example](https://github.com/wpazderski/configs-utils-example) - an example project that shows how to use all configs and utils.

@@ -8,8 +8,8 @@ importers:
     .:
         devDependencies:
             "@wpazderski/prettier-config":
-                specifier: ^1.0.1
-                version: 1.0.1(prettier@3.5.3)
+                specifier: ^1.0.2
+                version: 1.0.2(prettier@3.5.3)
             npm-run-all:
                 specifier: ^4.1.5
                 version: 4.1.5
@@ -18,8 +18,8 @@ importers:
                 version: 3.5.3
 
 packages:
-    "@wpazderski/prettier-config@1.0.1":
-        resolution: { integrity: sha512-oKJLZPrFt2LgRtRE5rhOTOMgpBzQ97ss1EOycr/g51eBo4sp+w/DAABRfV/ek4ZBdGYWEd2zf/IlN2Gwk5YPxg== }
+    "@wpazderski/prettier-config@1.0.2":
+        resolution: { integrity: sha512-noDIap5L6i6D1oFAlCuuL5+PzXdfPzry24cqFrZr+ngIN7JMpj/mu+LrZc/U0SodFJgMShxkSoHyT5hSb4p9pA== }
         engines: { node: ">=24.0.0", npm: please-use-pnpm, pnpm: ">=10.0.0", yarn: please-use-pnpm }
         peerDependencies:
             prettier: ^3.5.3
@@ -541,7 +541,7 @@ packages:
         hasBin: true
 
 snapshots:
-    "@wpazderski/prettier-config@1.0.1(prettier@3.5.3)":
+    "@wpazderski/prettier-config@1.0.2(prettier@3.5.3)":
         dependencies:
             prettier: 3.5.3
 
